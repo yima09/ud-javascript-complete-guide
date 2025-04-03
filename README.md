@@ -15,6 +15,7 @@
 
 ## 分岐 ループ エラー処理
 
+[Falsy](https://developer.mozilla.org/ja/docs/Glossary/Falsy) 以外が Truthy
 
 
 

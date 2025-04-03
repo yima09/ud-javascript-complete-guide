@@ -17,6 +17,11 @@
 
 [Falsy](https://developer.mozilla.org/ja/docs/Glossary/Falsy) 以外が Truthy
 
+### 56. && (論理積) || (論理和)
+
+[main01.js](if-loop-error/main01.js) `||` 左が Truthy で左。
+
+
 
 
 

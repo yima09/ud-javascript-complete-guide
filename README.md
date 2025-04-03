@@ -21,8 +21,7 @@
 
 [main01.js](if-loop-error/main01.js) `||` 左が Truthy で左。
 
-
-
+### 57. [演算子の優先順位](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Operators/Operator_precedence)
 
 
 

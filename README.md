@@ -32,10 +32,14 @@
 
 [main03.js](if-loop-error/main03.js)
 
-### 関数
+## 関数
 
 82. [main01.js](function/main01.js)
 
+
+### 84. デフォルトパラメータ
+
+[main02.js](function/main02.js) デフォルトパラメータは後側で付ける。前側のパラメータを引数に出来る。
 
 
 

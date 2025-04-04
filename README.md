@@ -41,6 +41,9 @@
 
 [main02.js](function/main02.js) デフォルトパラメータは後側で付ける。前側のパラメータを引数に出来る。
 
+### 85. (...余剰引数)
+
+[main03.js](function/main03.js)
 
 
 

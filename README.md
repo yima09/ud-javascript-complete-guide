@@ -24,7 +24,13 @@
 
 ### 57. [演算子の優先順位](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Operators/Operator_precedence)
 
-### 
+### 59. [!(論理否定)](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Operators/Logical_NOT)
+
+[main02.js](if-loop-error/main02.js)
+
+### 74 ~ 76. [try-catch 文](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Statements/try...catch)
+
+[main03.js](if-loop-error/main03.js)
 
 
 

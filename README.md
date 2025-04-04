@@ -49,5 +49,9 @@
 
 [main04.js](function/main04.js)
 
+### 92. グローバルオブジェクト
 
+`console.log(globalThis)`
+
+[標準組み込みオブジェクト](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects)
 

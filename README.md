@@ -65,3 +65,18 @@
 ### 111 - 112 キーの指定とプロパティへアクセス
 
 [main01.js](object/main01.js)
+
+### [delete 演算子](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Operators/delete)
+
+`delete person.age;`
+
+### 118. スプレッド構文でオブジェクトをコピー
+
+[main02.js](object/main02.js)
+
+
+
+
+
+
+

@@ -32,7 +32,9 @@
 
 [main03.js](if-loop-error/main03.js)
 
+### 関数
 
+82. [main01.js](function/main01.js)
 
 
 

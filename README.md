@@ -55,3 +55,8 @@
 
 [標準組み込みオブジェクト](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects)
 
+
+
+### 104. クロージャでプライベート変数を作る
+
+[main01.js](evolutionary-function/main01.js)

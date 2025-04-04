@@ -60,3 +60,8 @@
 ### 104. クロージャでプライベート変数を作る
 
 [main01.js](evolutionary-function/main01.js)
+
+
+### 111 - 112 キーの指定とプロパティへアクセス
+
+[main01.js](object/main01.js)

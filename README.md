@@ -84,5 +84,14 @@
 
 `user?.address` user が null か undefined なら後を評価せず undefined を返す。
 
+### 123. this とグローバルオブジェクト
+### 124. メソッドの中の this
 
+[main04.js](object/main04.js)
+
+### 125. アロー関数は this を持たない
+
+グローバルオブジェクトを指す。
+
+https://chatgpt.com/share/67f1b2b7-f868-8005-bae8-bed8993cc23b
 

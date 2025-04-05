@@ -67,15 +67,21 @@
 
 [main01.js](object/main01.js)
 
-### [delete 演算子](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Operators/delete)
+### 116. [delete 演算子](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Operators/delete)
 
 `delete person.age;`
 
-### 118. スプレッド構文でオブジェクトをコピー
+### 117. プロパティ省略記法
 
 [main02.js](object/main02.js)
 
+### 118. スプレッド構文でオブジェクトをコピー
 
+[main03.js](object/main03.js) スプレッド構文は shallow copy
+
+### 122. `?.`
+
+`user?.address` user が null か undefined なら後を評価せず undefined を返す。
 
 
 

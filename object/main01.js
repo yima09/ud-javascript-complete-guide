@@ -9,10 +9,11 @@
       return 'hello';
     },
     const: 'const', // 予約語可。
-    'current city': 'Tokyo',
+    'current city': 'Tokyo', // 文字列キーなら空白可。
     3: 3, // 数字のみ。
     3.1: 3.1, // 少数のみ。
     // -3: -3, // 演算子からは不可。
+    [-3]: -3, // [] で式も可。
     [interests]: ['music', 'travel'],
   };
 

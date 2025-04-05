@@ -55,6 +55,7 @@
 
 [標準組み込みオブジェクト](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects)
 
+### 100. lexical environment「語彙的な環境」
 
 
 ### 104. クロージャでプライベート変数を作る
@@ -82,8 +83,6 @@
 ### 122. `?.`
 
 `user?.address` user が null か undefined なら後を評価せず undefined を返す。
-
-
 
 
 

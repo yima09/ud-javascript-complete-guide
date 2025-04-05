@@ -95,3 +95,13 @@
 
 https://chatgpt.com/share/67f1b2b7-f868-8005-bae8-bed8993cc23b
 
+### 126 getter
+
+データプロパティはキーと値、アクセサプロパティは getter setter 。
+`get プロパティ名() {}`
+
+
+
+
+
+

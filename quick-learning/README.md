@@ -9,6 +9,9 @@
 
 [callback.js](callback.js)
 
+### メソッド
+
+[method](method.js)
 
 
 

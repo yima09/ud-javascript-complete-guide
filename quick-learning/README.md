@@ -13,7 +13,9 @@
 
 [method](method.js)
 
+### 分割代入
 
+[destructuring-assignment.js](destructuring-assignment.js)
 
 
 

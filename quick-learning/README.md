@@ -20,3 +20,13 @@
 
 [class.js](class.js)
 
+### Import Export
+
+[index.html](import-export/index.html) [<script>: スクリプト要素](https://developer.mozilla.org/ja/docs/Web/HTML/Element/script)
+
+[functions.js](import-export/functions.js) &nbsp; [main.js](import-export/main.js)
+
+```bash
+% cd quick-learning/import-export
+% npx http-server -o
+```

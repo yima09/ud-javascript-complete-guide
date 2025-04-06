@@ -101,6 +101,9 @@ https://chatgpt.com/share/67f1b2b7-f868-8005-bae8-bed8993cc23b
 `get プロパティ名() {}`
 
 
+## Prototype Class
+
+### 136. プロトタイプチェーン
 
 
 

@@ -4,7 +4,6 @@
 
 `defer` 属性 : `<script>` を `<head>` 内の最後に配置する際に付ける。
 
-
 ### Call back
 
 [callback.js](callback.js)
@@ -17,7 +16,7 @@
 
 [destructuring-assignment.js](destructuring-assignment.js)
 
+### Class
 
-
-
+[class.js](class.js)
 

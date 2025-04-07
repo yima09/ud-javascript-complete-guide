@@ -108,7 +108,11 @@ https://chatgpt.com/share/67f1b2b7-f868-8005-bae8-bed8993cc23b
 
 ## Array
 
-###
+### 174. [indexOf](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String/indexOf) [includes](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
+
+[indexOf-includes.js](Array/indexOf-includes.js)
+
+
 
 ## [Proxy](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Proxy) [Reflect](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Reflect) Symbols [Iterator](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Iterator) [Generator](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Generator) タグ付きテンプレート
 
